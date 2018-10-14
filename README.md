@@ -1,2 +1,4 @@
 # calculator
-Just another repository
+
+Hi!
+This is a new repository.
